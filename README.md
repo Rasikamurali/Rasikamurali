@@ -10,10 +10,10 @@
 
 ## What I'm doing now: 
 
-- 🔭 I’m currently working on building Machine Learning for Artificial Intelligence applications. Particularly in Natural Language Processing for Education and Social Good. 
+- 🔭 I’m currently a MS in Data Science student at Indiana University Bloomington. 
+- 😄 Working on building Machine Learning for Artificial Intelligence applications. Particularly in Natural Language Processing for Education and Social Good. 
 - 🌱 I’m currently learning Deep Learning and Transfer Learning 
-- 💬 Ask me about 
-- 📫 How to reach me: rasika2murali1301@gmail.com
+- 📫 How to reach me: rasimura@iu.edu
 - 😄 Trying to blog on [medium]
 - ⚡ [Noob Website]
 
